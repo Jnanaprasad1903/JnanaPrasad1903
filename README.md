@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hey There , I am Jnana Prasad G R.
+#                                                                                    💫 Hey There , I am Jnana Prasad G R.
 
 
 ## 🌐 Socials:
