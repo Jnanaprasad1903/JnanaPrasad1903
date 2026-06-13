@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jnanaprasad1903&label=Profile%20views&color=0e75b6&style=flat" alt="jnanaprasad1903" /> </p>
 
-<p align="left"> <a href="https://github.com/Jnanaprasad1903/JnanaPrasad1903"><img src="https://github-profile-trophy.vercel.app/?username=jnanaprasad1903" alt="jnanaprasad1903" /></a> </p>
+<p align="left"> <a href="https://github.com/Jnanaprasad1903/JnanaPrasad1903"></a> </p>
 
 - 🌱 I’m currently learning **AI, Machine Learning and System Design**
 
